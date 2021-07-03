@@ -1,0 +1,38 @@
+body,
+html { 
+    background: url(header.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  h1
+  {
+      font-style: oblique;
+      font-size: 3rem;
+      color: peru;
+  }
+  .buffer
+  {
+    height : 10rem;
+  }
+  .btn{
+       font-weight:400;
+       border-radius: 200px;
+       text-transform:uppercase;
+
+  }
+  .btn-primary
+  {
+        background-color: orange;
+        border-color: orangered;
+  }
+  .btn-primary:hover
+  {
+
+  }
+  .btn-xl{
+
+       padding: 3rem 2rem;     
+
+  }
